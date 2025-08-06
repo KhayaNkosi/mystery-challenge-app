@@ -1,4 +1,4 @@
-# ICE2-MysteryNumber
+<img width="1041" height="443" alt="Screenshot 2025-08-06 221716" src="https://github.com/user-attachments/assets/653690f4-df95-4f83-9e23-7bde15d30750" /># ICE2-MysteryNumber
 
 ## 👥 Group Information
 - *Group Number*: 3  
@@ -76,8 +76,12 @@ Working together on this project helped us understand how to translate logical p
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Screenshots
-[Drag and drop images here on the readme on github]
+<img width="1040" height="458" alt="Screenshot 2025-08-06 221550" src="https://github.com/user-attachments/assets/c81d234d-38f3-4ebf-b107-b85cf5a947d2" />
+<img width="1043" height="454" alt="Screenshot 2025-08-06 221631" src="https://github.com/user-attachments/assets/002fe989-231e-43a2-9ac7-cfc988962727" />
+<img width="1037" height="456" alt="Screenshot 2025-08-06 221654" src="https://github.com/user-attachments/assets/94f3a41b-3d72-4d8e-9b6e-42e52a4d134f" />
+<img width="1041" height="443" alt="Screenshot 2025-08-06 221716" src="https://github.com/user-attachments/assets/3c7de358-f7a4-42fa-a723-8cc2185fb44a" />
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🔗 GitHub Repository
-[Add your repository]
+https://github.com/KhayaNkosi/mystery-challenge-app.git
