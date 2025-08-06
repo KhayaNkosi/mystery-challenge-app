@@ -1,4 +1,3 @@
-<img width="1041" height="443" alt="Screenshot 2025-08-06 221716" src="https://github.com/user-attachments/assets/653690f4-df95-4f83-9e23-7bde15d30750" /># ICE2-MysteryNumber
 
 ## 👥 Group Information
 - *Group Number*: 3  
